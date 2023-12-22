@@ -6,7 +6,7 @@ In the neon glow of the cybernetic future, we extend our deepest acknowledgments
 
 Navigating the complex data streams, these sentinels have dedicated their existence to the project's evolution, forging its path through the electronic ether:
 
-- **[Author Name](https://github.com/w8mej)** - *Cyberspace Contributor*<br>
+- **[John Menerick](https://github.com/w8mej)** - *Cyberspace Contributor*<br>
   - [Digital Footprint](https://github.com/w8mej/)
   - [Professional Nexus](https://www.linkedin.com/in/w8mej/)
   - [Echoes in the Net](https://twitter.com/w8mej/)
